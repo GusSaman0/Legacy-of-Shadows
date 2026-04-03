@@ -1,0 +1,104 @@
+########################################
+# UNITY - CARPETAS GENERADAS (CRÍTICO)
+########################################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+########################################
+# ARCHIVOS DE SISTEMA / IDE
+########################################
+
+# Visual Studio / Rider / Consulo
+.vs/
+.consulo/
+ExportedObj/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+########################################
+# ARCHIVOS GENERADOS POR UNITY
+########################################
+
+# Crash reports
+sysinfo.txt
+mono_crash.*
+
+# Metadata innecesaria
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+########################################
+# BUILDS
+########################################
+*.apk
+*.aab
+*.app
+
+########################################
+# ADDRESSABLES
+########################################
+/ServerData
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+########################################
+# VISUAL SCRIPTING
+########################################
+/[Aa]ssets/Unity.VisualScripting.Generated/
+
+########################################
+# TESTS
+########################################
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+########################################
+# HERRAMIENTAS Y PLUGINS
+########################################
+
+# JetBrains Rider plugin
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Asset Store Tools (opcional)
+# /[Aa]ssets/AssetStoreTools*
+
+########################################
+# ARCHIVOS PESADOS / TEMPORALES
+########################################
+
+# Blender
+*.blend1
+*.blend1.meta
+
+# Grabaciones y memoria
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+########################################
+# OTROS
+########################################
+crashlytics-build.properties
+
+# Auto-generated scenes by play mode tests
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
