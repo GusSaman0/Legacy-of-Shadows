@@ -19,8 +19,8 @@ public class EnemyAI : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-    }
 
+    }
     void FixedUpdate()
     {
         if (player == null) return;
