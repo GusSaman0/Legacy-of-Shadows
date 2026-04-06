@@ -335,7 +335,7 @@ Transform:
   m_GameObject: {fileID: 569032876}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.913665, y: 1.4134399, z: 0}
+  m_LocalPosition: {x: 0.36, y: 1.4134399, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -914,8 +914,8 @@ Transform:
   m_GameObject: {fileID: 1300253372}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.43, y: -2.13, z: 0}
-  m_LocalScale: {x: 141.34, y: 1, z: 1}
+  m_LocalPosition: {x: -6.43, y: -2.3182, z: 0}
+  m_LocalScale: {x: 141.34, y: 1.3764305, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1030,8 +1030,8 @@ MonoBehaviour:
   m_LightType: 3
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
-  m_Intensity: 100
+  m_Color: {r: 0.4521182, g: 0.5921443, b: 0.754717, a: 1}
+  m_Intensity: 5
   m_LightVolumeIntensity: 1
   m_LightVolumeIntensityEnabled: 0
   m_ApplyToSortingLayers: 00000000
@@ -1053,7 +1053,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 4.65
+  m_PointLightOuterRadius: 2
   m_ShapeLightParametricSides: 5
   m_ShapeLightParametricAngleOffset: 0
   m_ShapeLightParametricRadius: 1
@@ -1143,7 +1143,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: b618fca8c8a19b24383dda830462c751, type: 3}
+  m_Sprite: {fileID: -719738530, guid: 4cb979bcdc11a074aa634f2562161a5b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1163,7 +1163,7 @@ Transform:
   m_GameObject: {fileID: 2003763871}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -10.39, y: 1.89, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1225,8 +1225,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0943459, y: -0.0297935}
-  m_Size: {x: 0.7119965, y: 1.8311706}
+  m_Offset: {x: 0.30206844, y: -0.0297935}
+  m_Size: {x: 0.65497464, y: 1.8311706}
   m_Direction: 0
 --- !u!50 &2003763877
 Rigidbody2D:

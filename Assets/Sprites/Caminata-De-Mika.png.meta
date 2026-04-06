@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 067a42fcede16da4f8f6eab6302c6ebf
+guid: 4cb979bcdc11a074aa634f2562161a5b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -49,7 +49,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 25
-  spriteBorder: {x: 4, y: 0, z: 605, w: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -110,118 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RUN-Mika_0
+      name: Caminata-De-Mika_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 3
-        width: 41
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e9ae408756eb6d4d86d4f5cd8f6716b
-      internalID: 1846839033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RUN-Mika_1
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 1
-        width: 38
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b84896436f5aa842be05ab613a190f8
-      internalID: -1946609399
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RUN-Mika_2
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 3
-        width: 45
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33a37169d798b474e951fc0c8fc0ba7f
-      internalID: -672004300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RUN-Mika_3
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 2
-        width: 42
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a408d78e42545b49984fa7919cb4b95
-      internalID: -1873546145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RUN-Mika_4
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 3
-        width: 43
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad946940be200a64eaf4a93e038d4111
-      internalID: 1613638591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RUN-Mika_5
-      rect:
-        serializedVersion: 2
-        x: 268
-        y: 2
+        x: 6
+        y: 62
         width: 36
-        height: 43
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,61 +124,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01d4eecb7aebe5346b7e8c49d93cca46
-      internalID: 1205516548
+      spriteID: 207ad02cfcffbad40971f1323124abee
+      internalID: -719738530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RUN-Mika_6
+      name: Caminata-De-Mika_1
       rect:
         serializedVersion: 2
-        x: 318
-        y: 1
-        width: 31
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ffbc25ac9b54204a83aed7da558f720
-      internalID: -738478723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RUN-Mika_7
-      rect:
-        serializedVersion: 2
-        x: 363
-        y: 2
-        width: 38
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f241ef57cda043340bcd11b1bb800e19
-      internalID: 2089227036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RUN-Mika_8
-      rect:
-        serializedVersion: 2
-        x: 423
-        y: 0
-        width: 34
+        x: 45
+        y: 62
+        width: 35
         height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -292,19 +145,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b9a85817c665914a836b626d0b48e1c
-      internalID: 1252548808
+      spriteID: 8f884f2b7d7a65c4b8b2164a3574f7da
+      internalID: -1547948741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RUN-Mika_9
+      name: Caminata-De-Mika_2
       rect:
         serializedVersion: 2
-        x: 476
-        y: 1
-        width: 34
+        x: 83
+        y: 64
+        width: 40
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -313,19 +166,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59e18d21b33fe5e4da03d7c956d772c4
-      internalID: 1238570406
+      spriteID: 321e2bf1e1f726546b218edb02251a76
+      internalID: -1104036937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RUN-Mika_10
+      name: Caminata-De-Mika_3
       rect:
         serializedVersion: 2
-        x: 526
-        y: 2
-        width: 36
+        x: 126
+        y: 62
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113769cb481ac1448bb7c4a61b91bd18
+      internalID: -2038651864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata-De-Mika_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 62
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a46f5a0f6cabb42b92d85609252872
+      internalID: -866382713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata-De-Mika_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 37
         height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -334,18 +229,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9327e59059aa5694480a4dc1bb9651e0
-      internalID: -704869729
+      spriteID: 922f0deac4f7b1440a6c3198936b1599
+      internalID: -664791208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RUN-Mika_11
+      name: Caminata-De-Mika_6
       rect:
         serializedVersion: 2
-        x: 565
+        x: 5
         y: 1
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe83d7c56049fc0419c64c19261fe018
+      internalID: -1267616814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata-De-Mika_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
         width: 35
         height: 49
       alignment: 0
@@ -355,20 +271,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e579f5b5f566e3c449f23ee290af3e80
-      internalID: -1888080364
+      spriteID: 0a07c66e67b230b4fa0d10ab1eb31a93
+      internalID: -2020607396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RUN-Mika_12
+      name: Caminata-De-Mika_8
       rect:
         serializedVersion: 2
-        x: 612
-        y: 2
-        width: 35
-        height: 46
+        x: 82
+        y: 3
+        width: 40
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,8 +292,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cb2d2c8097439445acbc845d37ffee3
-      internalID: -1182050164
+      spriteID: 30f25dcd40152184dbc8e774518c0a06
+      internalID: 1316893479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata-De-Mika_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7342f785245bd924c98c0849050b5548
+      internalID: 1710894981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata-De-Mika_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad049a18229224c9105e9e8dd43e34
+      internalID: -1560184278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminata-De-Mika_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76172393e57202c44a75a03650af40c7
+      internalID: -2108865212
       vertices: []
       indices: 
       edges: []
@@ -386,26 +365,25 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      RUN-Mika_0: 1846839033
-      RUN-Mika_1: -1946609399
-      RUN-Mika_10: -704869729
-      RUN-Mika_11: -1888080364
-      RUN-Mika_12: -1182050164
-      RUN-Mika_2: -672004300
-      RUN-Mika_3: -1873546145
-      RUN-Mika_4: 1613638591
-      RUN-Mika_5: 1205516548
-      RUN-Mika_6: -738478723
-      RUN-Mika_7: 2089227036
-      RUN-Mika_8: 1252548808
-      RUN-Mika_9: 1238570406
+      Caminata-De-Mika_0: -719738530
+      Caminata-De-Mika_1: -1547948741
+      Caminata-De-Mika_10: -1560184278
+      Caminata-De-Mika_11: -2108865212
+      Caminata-De-Mika_2: -1104036937
+      Caminata-De-Mika_3: -2038651864
+      Caminata-De-Mika_4: -866382713
+      Caminata-De-Mika_5: -664791208
+      Caminata-De-Mika_6: -1267616814
+      Caminata-De-Mika_7: -2020607396
+      Caminata-De-Mika_8: 1316893479
+      Caminata-De-Mika_9: 1710894981
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
